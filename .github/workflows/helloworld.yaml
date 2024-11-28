@@ -3,6 +3,6 @@ name: Hello World GitHub Action
 on: [push, workflow_dispatch]
 jobs:
   Hello-World:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu
     steps:
       - run: echo "Hello World from Github Actions"
