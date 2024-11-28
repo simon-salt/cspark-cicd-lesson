@@ -2,7 +2,7 @@
 name = 'simons'
 version = "0.1.0"
 description = "make practical package"
-authors = ["Simon Scott simon.scott20@ntlworld.com"]
+authors = ["Simon Scott <simon.scott20@ntlworld.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
